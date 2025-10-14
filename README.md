@@ -1,2 +1,2 @@
-# SQL_Interview_Questions_Solutions
+# SQL-Interview-Questions-Solutions
 My solutions for SQL Interview Questions from stratascratch, Leetcode &amp; Data Lemur
